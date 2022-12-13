@@ -24,7 +24,7 @@ _Ejemplo_
 git clone https://github.com/BrianTuduri/Linux.git
 ```
 
-_Luego deberas ejecutar con bash y permisos de super usuario el script_
+_Luego ubiado dentro de la carpeta "Sincronizar hora en linux" deberas ejecutar con bash y permisos de super usuario el script_
 
 ```
 sudo bash syn_hora.sh
