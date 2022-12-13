@@ -21,7 +21,7 @@ _Simplemente debes de clonar la carpeta del repositorio a la maquina que quieras
 _Ejemplo_
 
 ```
-https://github.com/BrianTuduri/Linux.git
+git clone https://github.com/BrianTuduri/Linux.git
 ```
 
 _Luego deberas ejecutar con bash y permisos de super usuario el script_
