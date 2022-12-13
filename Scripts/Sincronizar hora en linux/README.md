@@ -32,6 +32,4 @@ sudo bash syn_hora.sh
 
 ## Autor ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **Brian Tuduri** - *Script* - [BrianTuduri](https://github.com/BrianTuduri)
