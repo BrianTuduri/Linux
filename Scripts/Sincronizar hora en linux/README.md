@@ -29,6 +29,11 @@ _Luego ubiado dentro de la carpeta "Sincronizar hora en linux" deberas ejecutar 
 ```
 sudo bash syn_hora.sh
 ```
+_Comenzara la comprobación del paquete chronyc, en caso de no tenerlo instalado, este detectara tu distribución de Linux para instalar, en caso de que no se logre identificar, pedira instalar chrony manualmente._
+
+_Luego de la comprobación o instalación exitosa del paquete chronyc, se pedira introducir la dirección IP del servidor NTP._
+
+_Finalmente se puede visualizar en consola, el estado de la sincronización para comprobar si esta se encuentra correcta._
 
 ## Autor ✒️
 
